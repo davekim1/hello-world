@@ -14,3 +14,8 @@ Well this is the third edit but from a new branch again after the previous one w
 This branch is currently called Third-time.
 What I can see in the directory structure is :-
 https://github.com/davekim1/hello-world/edit/Third-time/README.md
+
+Now to see if I can really much things up.
+Now working from Third-time which was deleted and restored but Third-time was merged with master.
+What I can see in the directory structure is :-
+https://github.com/davekim1/hello-world/edit/Third-time/README.md?pr=/davekim1/hello-world/pull/3
