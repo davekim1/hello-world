@@ -9,3 +9,8 @@ Well this is my second edit but from a new branch after the previous one was mer
 This branch is currently called second-time
 What I can see in directory structure is :-
 https://github.com/davekim1/hello-world/edit/second-time/README.md
+
+Well this is the third edit but from a new branch again after the previous one was merged back to master and deleted.
+This branch is currently called Third-time.
+What I can see in the directory structure is :-
+https://github.com/davekim1/hello-world/edit/Third-time/README.md
